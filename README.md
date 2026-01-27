@@ -37,5 +37,3 @@ All programs and documentation in this repository are my own work. External refe
 
 ## Author
 Rowshon Jahan Poddo
-New Text Document.txt
-Displaying New Text Document.txt.
