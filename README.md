@@ -3,7 +3,7 @@
 ## Student Information
 Name: Rowshon Jahan Poddo  
 ID No.: 0432320005101102
-Department: Computer Science and Engineering  
+ Department: Computer Science and Engineering  
 
 ## Repository Description
 This repository contains all practical work completed during the semester, including laboratory exercises and programming tasks related to computer graphics and multimedia systems. The repository demonstrates the application of graphical concepts through coding and experimentation.
